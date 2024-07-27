@@ -2,7 +2,7 @@
 
 [![Blog](https://img.shields.io/website?label=GuilhermeSanches.com&style=for-the-badge&url=https://portfolio-guilherme-xi.vercel.app/)](https://portfolio-guilherme-xi.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermesanches-dev/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gsanchz_/)
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
