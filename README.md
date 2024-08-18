@@ -1,4 +1,4 @@
-### Olá! eu sou o Guiherme Sanches 🖐️
+### Olá! eu sou Guiherme Sanches 🖐️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermesanches-dev/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gsanchz_/)
 
