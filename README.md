@@ -15,6 +15,7 @@
 <br>
 <div align="center">
   <div style="display: inline_block">
+    <br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Tech Stack</h1>
         <img src="https://skillicons.dev/icons?i=html" height="45" alt="html logo" />
