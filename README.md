@@ -26,6 +26,7 @@
     <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo" />
     <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo" />
     <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo" />
+    <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="firebase logo" />
     <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo" />
     <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgres logo" />
     <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo" />
