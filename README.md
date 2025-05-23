@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=github" height="55" alt="dev logo" />
-  <h1> Faaaala dev, Guilherme Aqui! </h1>
+  <h1>Hey dev, Guilherme here!</h1>
 </div>
 <div align="center">
   <h3> Badge's: </h3>
