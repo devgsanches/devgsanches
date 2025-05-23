@@ -31,7 +31,7 @@
     <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo" />
     <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo" />
   </div>
-  <div align="end">
+  <div align="center">
     <h1>Work</h1>
     <a href="mailto:guilhermesanchesdev@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="gmail logo" />
