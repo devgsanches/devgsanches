@@ -18,14 +18,17 @@
     <br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Tech Stack</h1>
+   <img align="left" height="250" alt="coding-time" src="code.gif">
+    <h1 align="center">Tech Stack</h1>
     <img src="https://skillicons.dev/icons?i=html" height="45" alt="html logo" />
     <img src="https://skillicons.dev/icons?i=css" height="45" alt="css logo" />
     <img src="https://skillicons.dev/icons?i=js" height="45" alt="js logo" />
     <img src="https://skillicons.dev/icons?i=ts" height="45" alt="ts logo" />
     <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo" />
+    <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo" />
     <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo" />
     <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo" />
-    <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo" />
+    <img src="https://skillicons.dev/icons?i=insomnia" height="45" alt="insomnia logo" />
     <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo" />
     <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgres logo" />
     <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo" />
