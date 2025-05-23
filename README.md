@@ -33,7 +33,7 @@
   </div>
   <div align="center">
     <h1>Work</h1>
-    <div display='flex' justify='space-between'>
+    <div display='flex' justify-content='space-between'>
       <a href="mailto:guilhermesanchesdev@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="gmail logo" />
     </a>
