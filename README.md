@@ -33,14 +33,12 @@
   </div>
   <div align="center">
     <h1>Work</h1>
-    <div display='flex' justify-content='space-between'>
       <a href="mailto:guilhermesanchesdev@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="gmail logo" />
     </a>
     <a href="https://www.linkedin.com/in/guilhermesanches-dev">
       <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="linkedin logo" />
     </a>
-    </div>
   </div>
 </div>
 <picture>
