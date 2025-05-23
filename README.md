@@ -18,9 +18,7 @@
     <br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Tech Stack</h1>
-   <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Tech Stack</h1>
-    <img src="https://skillicons.dev/icons?i=html" height="45" alt="html logo" />
+        <img src="https://skillicons.dev/icons?i=html" height="45" alt="html logo" />
     <img src="https://skillicons.dev/icons?i=css" height="45" alt="css logo" />
     <img src="https://skillicons.dev/icons?i=js" height="45" alt="js logo" />
     <img src="https://skillicons.dev/icons?i=ts" height="45" alt="ts logo" />
